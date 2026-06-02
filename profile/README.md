@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=38&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=LCE+Network;Minecraft+Legacy+Console+Edition;Reviving+Console+Multiplayer;Custom+Servers+%26+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=38&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=LCE+Network;Minecraft+Legacy+Console+Edition;Custom+Servers+for+LCEN" alt="Typing SVG" />
 
 **LCE Network** is a community-driven networking project focused on preserving, enhancing, and expanding **Minecraft Legacy Console Edition**.
 
